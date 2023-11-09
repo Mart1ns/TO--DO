@@ -43,7 +43,7 @@ class Lista {
 
   // Exibe as tarefas na interface
   exibirTarefas() {
-    exibirTarefas() {
+
         const tarefasLista = document.getElementById('tarefasLista');
         tarefasLista.innerHTML = '';
     
